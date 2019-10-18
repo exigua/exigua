@@ -1,0 +1,15 @@
+/* Ceci est un commentaire en CSS
+Et encore un autre!*/
+
+.red {color: red;font-size: 20px;}
+.green {color: green;font-size: 20px;}
+
+body{background-color: lightblue;}
+.border {
+    border: solid 1px black;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 1px;
+    border-radius: 25px;}
+
+.lorem2 {border: green;font-size: 20px;}

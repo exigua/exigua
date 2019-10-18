@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bigbox {
+    height: 350px;
+    width: 350px;
+    display: flex;
+}
+
+.rectangle {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 100%;
+}
+
+.middle-square{
+    height: 50%;
+}
+
+.little-rectangle {
+    height: 50%;
+    display: flex;
+}
+
+.little-square {
+    height: 100%;
+    width: 50%;
+}
+
+.middle-rectangle {
+    height: inherit;
+    display: flex;
+}
+
+.semi-middle-rectangle {
+    
+    height: 100%;
+    width: 50%;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.brown {
+    background-color: brown;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.blue {
+    background-color: blue;
+}

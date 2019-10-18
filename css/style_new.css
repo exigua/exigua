@@ -1,0 +1,16 @@
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}.test {
+    background-color: violet;
+    height: 300px;
+    width: 300px;
+}

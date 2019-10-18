@@ -1,0 +1,17 @@
+sélecteur {
+    propriété: valeur
+}
+
+h1 = selectionne toutes les balisees h1
+p = toutes les balises p
+
+.red = selectionne la classe "red"
+
+.red {
+    color: red;
+}
+
+
+#title {
+    
+}
